@@ -56,11 +56,11 @@ Ensure that Python 3.x is installed on your system. You'll also need the followi
 This will start scraping the Cars.com listings for Mercedes-Benz cars. After the script runs, the extracted data will be saved in a file called cars_dataset.xlsx in the project directory.
 
 
-### Output Format
+## Output Format
 The extracted data will be saved in an Excel file with the following columns:
 
-- Name: The car model name.
-- Dealer: The dealer's name.
-- Rating: The car's rating.
-- Reviews: The number of reviews.
-- Price: The price of the car.
+- `Name`: The car model name.
+- `Dealer`: The dealer's name.
+- `Rating`: The car's rating.
+- `Reviews`: The number of reviews.
+- `Price`: The price of the car.
